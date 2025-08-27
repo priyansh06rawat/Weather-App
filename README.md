@@ -2,10 +2,9 @@
 
 A simple and elegant **React + Vite** weather application that fetches live weather data using an API. Search for any city and instantly view real-time **temperature, weather conditions, humidity, and wind speed**.
 
-## 👑 Owner
+## 🖼️ Website Preview
+![Weather App Screenshot](https://github.com/user-attachments/assets/cc74fe07-aff1-4da6-b9d4-659795be5d18)
 
-* **Name**: [Priyansh](https://github.com/priyansh06rawat)
-* **Email**: [priyanshrawat122004@gmail.com](mailto:priyanshrawat122004@gmail.com)
 
 ## 🚀 Features
 
@@ -48,6 +47,11 @@ A simple and elegant **React + Vite** weather application that fetches live weat
    ```bash
    npm run dev
    ```
+
+ ## 👑 Owner
+
+* **Name**: [Priyansh](https://github.com/priyansh06rawat)
+* **Email**: [priyanshrawat122004@gmail.com](mailto:priyanshrawat122004@gmail.com)
 
 ## 🙌 Contributing
 
