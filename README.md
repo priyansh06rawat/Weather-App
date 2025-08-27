@@ -4,7 +4,7 @@ A simple and elegant **React + Vite** weather application that fetches live weat
 
 ## 👑 Owner
 
-* **Name**: Priyansh
+* **Name**: [Priyansh](https://github.com/priyansh06rawat)
 * **Email**: [priyanshrawat122004@gmail.com](mailto:priyanshrawat122004@gmail.com)
 
 ## 🚀 Features
